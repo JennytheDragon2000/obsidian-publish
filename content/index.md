@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: "Welcome to Srinath's Blog"
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-[[first-doc]]
+Welcome to Srinath's World. Here I will write about everything in my mind.
+Every thing I Study, Some special events in my life etc..
