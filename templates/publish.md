@@ -1,5 +1,5 @@
 ---
-title: "\"Welcome to Srinath's World\""
+title: Welcome
 draft: "false"
 tags:
 ---

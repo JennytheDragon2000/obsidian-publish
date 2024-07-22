@@ -1,11 +1,7 @@
 ---
-title: How to publish to obsidian
+title: Srinaths World
 draft: false
 tags:
 ---
-
-### this is a heading 
-
-with some text
-
-w
+Swathi you are my world maa...
+Thank you for everything
