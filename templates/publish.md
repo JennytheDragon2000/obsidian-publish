@@ -1,6 +1,7 @@
 ---
-title: '"How to publish to obsidian"'
+title: "\"Welcome to Srinath's World\""
 draft: "false"
 tags:
 ---
 
+Swathi you are my world maaa...
